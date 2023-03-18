@@ -4,3 +4,10 @@
 ## About Me
 I work at CWXSTAT, as a programmer: Go, Rust, Python, Kubernetes, AWS.
 
+### Contracting
+Please feel free to contact my organization, CWXSTAT INC., 
+solely for well-compensated business-to-business contracts. 
+I am not interested in pursuing W2 positions. 
+My focus and preferred areas of work include Kubernetes, 
+Go, Rust, Python Pandas, AWS Cloud, and other complex cloud operations.
+
